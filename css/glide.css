@@ -1,0 +1,14 @@
+.slider-wrapper { 
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  padding-top: 100px;
+}
+.slider-wrapper  img { 
+  object-fit: cover;
+  height: 300px;
+  width: 100%;
+}
